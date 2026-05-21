@@ -1,7 +1,7 @@
 console.log("BNI PRO iniciado");
 
 const SUPABASE_URL = "https://wqiqauksktmvzppctoqo.supabase.co";
-const SUPABASE_KEY = "TU_ANON_KEY";
+const SUPABASE_KEY = "sb_publishable_ktAaADb0EkTBBvPh6JMWyw_eGVnlEiO";
 
 async function obtenerPropiedades() {
 
